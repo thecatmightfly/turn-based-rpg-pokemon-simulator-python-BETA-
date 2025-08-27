@@ -1,0 +1,11 @@
+{
+  "pokemon": {
+    "Poochyena": { "chance": 45, "location": "Route 101" },
+    "Zigzagoon": { "chance": 10, "location": "Route 101" },
+    "Wurmple": { "chance": 45, "location": "Route 101" },
+    "Lotad": { "chance": 20, "location": "Route 102" },
+    "Seedot": { "chance": 1, "location": "Route 102" },
+    "Ralts": { "chance": 4, "location": "Route 102" },
+    "Wingull": { "chance": 20, "location": "Route 103" }
+  }
+}
